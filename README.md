@@ -32,41 +32,40 @@
 🔨 𝖢𝖮𝖲𝖧 𝖡𝖺𝗍𝖼𝗁 10 ₍₂₀₁₅₎<br>
 😺 𝖮𝖩𝖳 𝖡𝗈𝖺𝗋𝖽 𝖱𝖾𝗉𝖺𝗂𝗋 𝖤𝗇𝗀𝗂𝗇𝖾𝖾𝗋 @ 𝖱𝖤𝖠𝖢 𝖲𝖼𝗂𝖾𝗇𝗍𝗂𝖿𝗂𝖼 𝖲𝗒𝗌𝗍𝖾𝗆 𝖢𝗈𝗋𝗉₍₂₀₁₀₎
 
-🔷 🇦🇸 🇦 🇯🇺🇩🇬🇪 (2)
+🔷 As a Judge (2)
 ```
-- 2018 ꜱᴇᴀʀᴄʜ ꜰᴏʀ ᴍᴏꜱᴛ ᴏᴜᴛꜱᴛᴀɴᴅɪɴɢ ʀᴏʙᴏᴛɪᴄꜱ ʀᴇꜱᴇᴀʀᴄʜ @ ᴛᴏɴᴅᴏ ʜꜱ, ꜱᴍᴀʀᴛ ʟᴀʙ (ꜱᴇᴘᴛ 13, 2018)
-- ɪᴏᴛ ꜱᴜᴍᴍɪᴛ 2015 @ ꜱᴍ ᴍᴇɢᴀ ᴍᴀʟʟ (ᴍᴀʀᴄʜ 2015)
-
+- 2018 Search for Most Outstanding Robotics Research @Tondo HS, Smart Lab (Sep 13, 2018)
+- IOT Summit 2015 @SM Mega Mall (March 2025)
 ```
 
 <details>
-<summary>🇦🇸 🇦 🇬🇺🇪🇸🇹 🇸🇵🇪🇦🇰🇪🇷 (9)</summary>
+<summary>As a Resource Speaker (9)</summary>
   
 ```
-- "ᴅᴇᴠᴄᴏɴᴘʜ:ᴀʀᴅᴜɪɴᴏᴄᴏᴅᴇᴄᴀᴍᴘ" (ᴊᴜʟ 8, 2017)
-- "ꜱᴘᴇᴄᴛʀᴜᴍ xxx: ᴇxᴘᴀɴᴅɪɴɢ ᴠɪᴇᴡꜱ, ᴇxᴘʟᴏʀɪɴɢ ᴘᴏꜱꜱɪʙɪʟɪᴛɪᴇꜱ, ᴇxᴄᴇᴇᴅɪɴɢ ᴇxᴘᴇᴄᴛᴀᴛɪᴏɴꜱ." @ ᴜᴘ ɴᴀᴛɪᴏɴᴀʟ ᴇɴɢɪɴᴇᴇʀɪɴɢ ᴄᴇɴᴛᴇʀ (ᴀᴘʀɪʟ 17, 2017)
-- "🇦🇷🇩🇺🇮🇳🇴 🇼🇴🇷🇰🇸🇭🇴🇵" - 🇫🇦🇨🇺🇱🇹🇾 🇲🇪🇲🇧🇪🇷 🇹🇺🇵 🇲🇦🇳🇮🇱🇦 (🇯🇺🇱 2016)
-- "🇬🇮🇿🇩🇺🇮🇳🇴 🇸🇪🇲🇮🇳🇦🇷" - 🇹🇺🇵 🇧🇦🇹🇦🇳🇬🇦🇸 (🇦🇺🇬 2016)
-- "🇬🇮🇩🇺🇮🇳🇴-🇦🇷🇩🇺🇮🇳🇴 🇨🇴🇲🇵🇦🇹🇮🇧🇱🇪" 🇲🇴🇷🇳🇮🇳🇬 🇸🇪🇸🇸🇮🇴🇳,
-- "🇸🇹🇦🇷🇹🇪🇩 🇼🇮🇹🇭 🇪-🇧🇴🇹" 🇦🇫🇹🇪🇷🇳🇴🇴🇳 🇸🇪🇸🇸🇮🇴🇳 @ 🇪🇦🇷🇮🇸🇹 🇳🇦🇬🇹🇦🇭🇦🇳, 🇲🇦🇳🇮🇱🇦 (ꜱᴇᴘᴛ 17, 2016)
-- "🇦🇷🇩🇺🇮🇳🇴 🇼🇴🇷🇰🇸🇭🇴🇵 🇼🇮🇹🇭 🇲🇨🇺 🇹🇷🇦🇮🇳🇪🇷" - 🇫🇦🇨🇺🇱🇹🇾 🇲🇪🇲🇧🇪🇷 🇩🇱🇸🇵 (🇴🇨🇹 2016)
-- "🇬🇮🇿🇩🇺🇮🇳🇴 🇲🇨🇺" - 🇨🇪🇺 🇲🇪🇩🇮🇴🇱🇦, 🇲🇦🇳🇮🇱🇦
-- "🇼🇴🇲🇪🇳 🇹🇪🇨🇭🇲🇦🇰🇪🇷🇸 🇲🇦🇳🇮🇱🇦 2015" @ 🇬🇩🇬 🇵🇭🇮🇱🇮🇵🇵🇮🇳🇪🇸 🇧🇾 🇬🇴🇴🇬🇱🇪 🇨🇴🇲🇲🇺🇳🇮🇹🇾 (🇲🇦🇷 28,2015)
+- "DevConPH: ArduinoCodeCamp" (Jul 8, 2017)
+- "Spectrum XXX: Expanding Views, Exploring Possibilities, Exceeding Expectation." @UP National Engineering Center (Apr 17,2017)
+- "Arduino Workshop"-Faculty Member Tup Manila (Jul 2016)
+- "Gizduino Seminar"-TUP Batangas (Aug 2016)
+- "Gizduino-Arduino Compatible" Morning Session;
+- "Started with E-BOT" Afternoon Session @EARIST Nagtahan, Manila (Sep 17,2016)
+- "Arduino Workshop with MCU Trainer"-Faculty Member DLSP (Oct 2016)
+- "Gizduino MCU"-CEU Mediola, Manila
+- "WOMEN TECHMAKERS MANILA 2015" @GDG Philippines by Google Community (Mar 28, 2015)
 ```
 
 </details>
 
 <details>
-<summary>ᴄᴏᴍᴘᴀɴʏ ʀᴇᴘʀᴇꜱᴇɴᴛᴀᴛɪᴠᴇ (7)</summary>
+<summary>Company Representative (7)</summary>
   
 ```
-- "ʀᴏʙᴏᴛɪᴄꜱ ᴀɴᴅ ᴇᴍʙᴇᴅᴅᴇᴅ ꜱʏꜱᴛᴇᴍꜱ ᴛʀᴀɪɴɪɴɢ" @ ᴏʟꜰᴜ ʀɪꜱᴇ ᴛᴏᴡᴇʀ, ᴠᴀʟ.ᴄɪᴛʏ (ᴀᴜɢ 14,2019)
-- "ᴀʀᴅᴜɪɴᴏ ᴡᴏʀᴋꜱʜᴏᴘ" @ ᴘʟᴅᴛ ɪɴɴᴏʟᴀʙ ʙʟᴅɢ, ᴍᴀᴅᴀʟᴜʏᴏɴɢ (ᴊᴜʟ 14, 2018)
-- ᴀʀᴅᴜɪɴᴏ ᴅᴀʏ 2015 ᴍᴀɴɪʟᴀ (ᴍᴀʀᴄ 28, 2015)
-- ᴍᴀᴋᴇ ᴀɴᴅ ʙʀᴇᴀᴋ: ꜰᴇꜱᴛɪᴠᴀʟ ᴏꜰ ᴄʀᴇᴀᴛᴏʀꜱ (ꜰᴇʙ 28, 2015)
-- "🇸🇾🇳🇪🇷🇬🇾: 🇪🇱🇪🇨🇹🇷🇮🇨🇦🇱 🇦🇳🇩 🇪🇱🇪🇨🇹🇷🇴🇳🇮🇨🇸 🇪🇳🇬🇮🇳🇪🇪🇷🇮🇳🇬 🇸🇺🇲🇲🇮🇹 2014" @ 🇷🇪🇻🇴🇱🇺🇹🇮🇴🇳🇦🇷🇾 🇷🇴🇧🇴🇹🇮🇨🇸 🇧🇾 🇺🇵 🇪🇷🇬. 🇵🇸🇸🇨 🇦🇺🇩🇮🇹🇴🇷🇮🇺🇲, 🇩🇮🇱🇮🇲🇦🇳, 🇶🇺🇪🇿🇴🇳 🇨🇮🇹🇾 (🇳🇴🇻 20, 2014)
-- 🇮🇳🇳🇴🇻🇦🇹🇮🇴🇳 🇴🇫 🇹🇭🇪 🇲🇴🇩🇪🇷🇳 🇼🇴🇷🇱🇩 🇦🇷🇩🇺🇮🇳🇴 @ 🇱🇱🇵🇦 🇨🇴🇦🇱🇮🇹🇮🇴🇳 🇨🇴🇱🇱🇦🇧🇴🇷🇦🇹🇪🇩 🇪🇨🇪 🇸🇨🇭🇴🇴🇱🇸 🇫🇷🇴🇲 🇨🇦🇱🇦🇲🇧🇦 - 🇺🇳🇮🇻🇪🇷🇸🇮🇹🇾 🇴🇫 🇵🇪🇷🇵🇪🇹🇺🇦🇱 🇭🇪🇱🇵 🇸🇾🇸🇹🇪🇲 🇩🇪🇱🇹🇦, 🇨🇦🇱🇦🇲🇧🇦, 🇱🇦🇬🇺🇳🇦 (🇩🇪🇨 7,2013)
-- ᴡᴏʀʟᴅ ꜱᴋɪʟʟꜱ "ᴀꜱᴇᴀɴ ʜᴀɴᴏɪ 2014" ᴄᴏᴍᴘᴇᴛɪᴛɪᴏɴ @ ᴛᴇꜱᴅᴀ ᴛᴀɢᴜɪɢ (ᴊᴜʟʏ 7, 2014)
+- "Robotics and Embedded Systems Training" @OLFU Rise Tower, Valenzuela City (Aug 14, 2019)
+- "Arduino Workshop" @PLDT Innolab Bldg, Mandaluyong (Jul 14, 2018)
+- Arduino Day 2015 Manila (Mar 28, 2015)
+- Make and Break: Festival of Creators (Feb 28, 2015)
+- "Synergy: Electrical and Electronics Engineering Summit 2014" @Revolutionary Robotics by UP ERG PSSC Auditorium, Diliman, Quezon City (Nov 20, 2014)
+- Innovation of the Modern World Arduino @ LLPA Coalition Collaborated ECE Schools from Calamba - University of Perpetual Help System Delta, Calamba, Laguna (Dec 7, 2013)
+- World Skills "Asean Hanoi 2014" Competition @TESDA Taguig (Jul 7, 2014)
 ```
 </details>
 
