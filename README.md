@@ -3,7 +3,7 @@
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
-# <h1 align="center">Hey there <img src="https://private-user-images.githubusercontent.com/74038190/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjAwODUxOTYsIm5iZiI6MTc2MDA4NDg5NiwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjM4OTEtN2JiMWU3MDQtNjAyNi00OGY5LTg0MzUtMmY0ZDQwMTAxMzQ4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEwMTAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMDEwVDA4MjgxNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWIwYjIwYTE1NTY3NjAwNzkzYTg0ZjQ5ZThlNTliNWFmODIzZTcwYTg4OWJjYjJhNGJmNmMyOWJkZGY3NTcyZWImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.YYV-MzRVcYjnHLTiy3IcXy_iKtuw4En1_HKHyCD9jZQ" alt="Grinning Cat with Smiling Eyes" width="25" height="25" /> , ɪ'ᴍ ʀᴏᴍᴀ ᴍᴇʀᴄᴀᴅᴏ</h1>
+# <h1 align="center">Hey there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Cat.png" alt="Grinning Cat" width="25" height="25" /> , ɪ'ᴍ ʀᴏᴍᴀ ᴍᴇʀᴄᴀᴅᴏ</h1>
 
 
 <a href="https://linkedin.com/in/romamercado16" target="blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
@@ -15,10 +15,10 @@
 
 <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cryptaroma16&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+![CryptaRoma16's GitHub stats](https://github-readme-stats.vercel.app/api?username=cryptaroma16&show_icons=true&theme=dracula)
+   
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cryptaroma16&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+
 
 <h3 align="left">👩‍💻  About Me</h3>
 ᴄᴄɴᴀ | ɴꜱᴇ 1 & 2 | ɪᴛꜱᴍ | ʟɪɴᴜx | ʀᴇɢɪꜱᴛᴇʀᴇᴅ ᴇʟᴇᴄᴛʀᴏɴɪᴄꜱ ᴇɴɢɪɴᴇᴇʀ | ʀɴᴅ ᴇɴɢɪɴᴇᴇʀ | ᴛᴇᴄʜɴɪᴄᴀʟ ᴄᴏɴꜱᴜʟᴛᴀɴᴛ | ᴄᴏꜱʜ | ᴛʀᴀɪɴᴇʀ <br>
@@ -116,9 +116,9 @@
 <a href="https://egizmo-onlineclass.thinkific.com/courses/classroom">ᴀᴠʀ 32-ʙɪᴛ ᴜᴄ3ᴄ2 ᴛᴜᴛᴏʀɪᴀʟ</a><br>
 
 #### ꜱᴛᴀᴛꜱ ꜰʀᴏᴍ ᴇ-ɢɪᴢᴍᴏ ʀᴇᴘᴏ
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=e-gizmo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  
+![e-Gizmo's GitHub stats](https://github-readme-stats.vercel.app/api?username=e-gizmo&show_icons=true&theme=dracula)
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=e-gizmo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=e-gizmo&theme=juicyfresh" alt="cryptaroma16" /></a> </p>
+![trophy](https://github-profile-trophy.vercel.app/?username=e-gizmo&theme=juicyfresh)
