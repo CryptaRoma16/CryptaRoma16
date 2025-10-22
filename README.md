@@ -4,13 +4,13 @@
 Hey there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Cat.png" alt="Grinning Cat" width="25" height="25" /> , ɪ'ᴍ ʀᴏᴍᴀ ᴍᴇʀᴄᴀᴅᴏ</h1>
 
 
-<a href="https://linkedin.com/in/romamercado16" target="blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
-<a href="https://www.credly.com/users/roma-mercado/badges#credly" target="blank"><img src="https://img.shields.io/static/v1?message=credly&logo=credly&label=&color=B55C00&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="credly logo"  /></a>
-<a href="https://www.freecodecamp.org/fccda2b5d9d-8a8c-4a57-89e3-77564f47cbfb" target="blank"><img src="https://img.shields.io/static/v1?message=FreeCodeCamp&logo=freecodecamp&label=&color=28005E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="freecodecamp logo"  /></a>
-<a href="https://learn.microsoft.com/en-us/users/rommercado-5757/" target="blank"><img src="https://img.shields.io/static/v1?message=microsoft&logo=dotnet&label=&color=6703A1&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="microsoft logo"  /></a>
-<a href="https://github.com/CryptaRoma16/" target="blank"><img src="https://img.shields.io/static/v1?message=Github&logo=Github&label=&color=4A4A4A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="github logo"  /></a>
-<a href="https://egizmo-onlineclass.thinkific.com/" target="blank"><img src="https://img.shields.io/static/v1?message=thinkific/My%20website&logo=thinkific&label=&color=3700BD&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="thinkific logo"  /></a>
-<a href="https://www.youtube.com/watch?v=8FSE5AqRWeY" target="blank"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  /></a>
+<a href="https://linkedin.com/in/romamercado16" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
+<a href="https://www.credly.com/users/roma-mercado/badges#credly" target="_blank"><img src="https://img.shields.io/static/v1?message=credly&logo=credly&label=&color=B55C00&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="credly logo"  /></a>
+<a href="https://www.freecodecamp.org/fccda2b5d9d-8a8c-4a57-89e3-77564f47cbfb" target="_blank"><img src="https://img.shields.io/static/v1?message=FreeCodeCamp&logo=freecodecamp&label=&color=28005E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="freecodecamp logo"  /></a>
+<a href="https://learn.microsoft.com/en-us/users/rommercado-5757/" target="_blank"><img src="https://img.shields.io/static/v1?message=microsoft&logo=dotnet&label=&color=6703A1&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="microsoft logo"  /></a>
+<a href="https://github.com/CryptaRoma16/" target="_blank"><img src="https://img.shields.io/static/v1?message=Github&logo=Github&label=&color=4A4A4A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="github logo"  /></a>
+<a href="https://egizmo-onlineclass.thinkific.com/" target="_blank"><img src="https://img.shields.io/static/v1?message=thinkific/My%20website&logo=thinkific&label=&color=3700BD&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="thinkific logo"  /></a>
+<a href="https://www.youtube.com/watch?v=8FSE5AqRWeY" target="_blank"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  /></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cryptaroma16&label=Profile%20views&color=0e75b6&style=flat" alt="cryptaroma16" /> </p>
 
 ##### 🌱 My new career as an IT Profession (2025 - Present) <br>
