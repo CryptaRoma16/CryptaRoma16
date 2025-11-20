@@ -38,7 +38,7 @@ Hey there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animate
 🔷 As a Judge (2)
 ```
 - 2018 Search for Most Outstanding Robotics Research @Tondo HS, Smart Lab (Sep 13, 2018)
-- IOT Summit 2015 @SM Mega Mall (March 2025)
+- IOT Summit 2015 @SM Mega Mall (March 2015)
 ```
 
 <details>
