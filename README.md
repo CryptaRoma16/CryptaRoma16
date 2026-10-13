@@ -101,7 +101,7 @@ Hey there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animate
 </details>
 
 ##### ʙʟᴏɢ ᴘᴏꜱᴛ (ᴘʀᴇᴠɪᴏᴜꜱ)
-<a href="https://www.e-gizmo.net/gizmoshop/index.php?route=journal3/blog/feed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="rss" height="30" width="40" /></a>
+<a href="https://www.e-gizmo.net/gizmoshop/index.php?route=journal3/blog" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="rss" height="30" width="40" /></a>
 </p>
 
 ##### ʟᴀɴɢᴜᴀɢᴇ ᴛᴏᴏʟꜱ
