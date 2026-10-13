@@ -101,7 +101,7 @@ Hey there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animate
 </details>
 
 ##### ʙʟᴏɢ ᴘᴏꜱᴛ (ᴘʀᴇᴠɪᴏᴜꜱ)
-<a href="/https://www.e-gizmo.net/gizmoshop/index.php?route=journal3/blog/feed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://www.e-gizmo.net/gizmoshop/index.php?route=journal3/blog/feed" height="30" width="40" /></a>
+<a href="https://www.e-gizmo.net/gizmoshop/index.php?route=journal3/blog/feed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://www.e-gizmo.net/gizmoshop/index.php?route=journal3/blog/feed" height="30" width="40" /></a>
 </p>
 
 ##### ʟᴀɴɢᴜᴀɢᴇ ᴛᴏᴏʟꜱ
@@ -123,4 +123,3 @@ Hey there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animate
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=e-gizmo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 
-![trophy](https://github-profile-trophy.vercel.app/?username=e-gizmo&theme=juicyfresh)
