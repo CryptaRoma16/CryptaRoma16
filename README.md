@@ -18,13 +18,12 @@ Hey there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animate
 
 <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 
-![CryptaRoma16's GitHub stats](https://github-readme-stats.vercel.app/api?username=cryptaroma16&show_icons=true&theme=dracula)
+<details>
+<Summary>About Me👩‍💻  </Summary>
    
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cryptaroma16&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-
-
-<h3 align="left">👩‍💻  About Me</h3>
+```
 ᴄᴄɴᴀ | ɴꜱᴇ 1 & 2 | ɪᴛꜱᴍ | ʟɪɴᴜx | ʀᴇɢɪꜱᴛᴇʀᴇᴅ ᴇʟᴇᴄᴛʀᴏɴɪᴄꜱ ᴇɴɢɪɴᴇᴇʀ | ʀɴᴅ ᴇɴɢɪɴᴇᴇʀ | ᴛᴇᴄʜɴɪᴄᴀʟ ᴄᴏɴꜱᴜʟᴛᴀɴᴛ | ᴄᴏꜱʜ | ᴛʀᴀɪɴᴇʀ <br>
+** Computer Systems Servicing NC II @TESDA(Apr 2026)<br>
 🚀 𝖭𝖾𝗍𝗐𝗈𝗋𝗄 𝖤𝗇𝗀𝗂𝗇𝖾𝖾𝗋 𝖳𝗋𝖺𝗂𝗇𝖾𝖾 @ 𝖱𝗂𝗏𝖺𝗇𝖨𝖳 𝖨𝗇𝗌𝗍𝗂𝗍𝗎𝗍𝖾₍ₙₒᵥ₂₀₂₄₋ₚᵣₑₛₑₙₜ₎<br>
 🐳 𝖱𝖾𝗀𝗂𝗌𝗍𝖾𝗋𝖾𝖽 𝖤𝗅𝖾𝖼𝗍𝗋𝗈𝗇𝗂𝖼𝗌 𝖤𝗇𝗀𝗂𝗇𝖾𝖾𝗋₍₂₀₁₂₋ₚᵣₑₛₑₙₜ₎<br>
 🎓 𝖡𝖲 𝖤𝗅𝖾𝖼𝗍𝗋𝗈𝗇𝗂𝖼𝗌 𝖺𝗇𝖽 𝖢𝗈𝗆𝗆𝗎𝗇𝗂𝖼𝖺𝗍𝗂𝗈𝗇 𝖤𝗇𝗀𝗂𝗇𝖾𝖾𝗋𝗂𝗇𝗀 @ 𝖠𝖣𝖴₍₂₀₀₆₋₂₀₁₁₎<br>
@@ -34,6 +33,9 @@ Hey there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animate
 🎨 𝖯𝗁𝗂𝗅𝖱𝗈𝖻𝗈𝗍𝗂𝖼𝗌 (𝖭𝗈𝗇-𝖯𝗋𝗈𝖿𝗂𝗍 𝖮𝗋𝗀𝖺𝗇𝗂𝗓𝖺𝗍𝗂𝗈𝗇) 𝖬𝖾𝗆𝖻𝖾𝗋₍₂₀₁₂₋ₚᵣₑₛₑₙₜ₎<br>
 🔨 𝖢𝖮𝖲𝖧 𝖡𝖺𝗍𝖼𝗁 10 ₍₂₀₁₅₎<br>
 😺 𝖮𝖩𝖳 𝖡𝗈𝖺𝗋𝖽 𝖱𝖾𝗉𝖺𝗂𝗋 𝖤𝗇𝗀𝗂𝗇𝖾𝖾𝗋 @ 𝖱𝖤𝖠𝖢 𝖲𝖼𝗂𝖾𝗇𝗍𝗂𝖿𝗂𝖼 𝖲𝗒𝗌𝗍𝖾𝗆 𝖢𝗈𝗋𝗉₍₂₀₁₀₎
+```
+   
+</details>
 
 🔷 As a Judge (2)
 ```
@@ -71,6 +73,12 @@ Hey there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animate
 - World Skills "Asean Hanoi 2014" Competition @TESDA Taguig (Jul 7, 2014)
 ```
 </details>
+
+
+
+![CryptaRoma16's GitHub stats](https://github-readme-stats.vercel.app/api?username=cryptaroma16&show_icons=true&theme=dracula)
+   
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cryptaroma16&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 
 ---
 
